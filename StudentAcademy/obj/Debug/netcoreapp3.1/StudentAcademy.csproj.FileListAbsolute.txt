@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.exe
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.deps.json
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.runtimeconfig.json
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.dll
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.pdb
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.AssemblyInfo.cs
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.dll
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.pdb
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.genruntimeconfig.cache
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.csprojAssemblyReference.cache
