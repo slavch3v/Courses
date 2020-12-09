@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.exe
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.deps.json
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.runtimeconfig.json
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.dll
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.pdb
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.AssemblyInfo.cs
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.dll
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.pdb
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.genruntimeconfig.cache
