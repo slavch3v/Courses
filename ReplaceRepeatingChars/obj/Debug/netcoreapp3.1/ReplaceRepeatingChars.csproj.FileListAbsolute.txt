@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\ReplaceRepeatingChars.exe
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\ReplaceRepeatingChars.deps.json
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\ReplaceRepeatingChars.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\ReplaceRepeatingChars.dll
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\ReplaceRepeatingChars.pdb
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\ReplaceRepeatingChars.dll
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\ReplaceRepeatingChars.pdb
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\ReplaceRepeatingChars.genruntimeconfig.cache
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\ReplaceRepeatingChars.csprojAssemblyReference.cache
