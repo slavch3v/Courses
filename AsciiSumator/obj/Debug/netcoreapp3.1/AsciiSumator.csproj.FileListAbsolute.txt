@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\AsciiSumator\bin\Debug\netcoreapp3.1\AsciiSumator.exe
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\AsciiSumator\bin\Debug\netcoreapp3.1\AsciiSumator.deps.json
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\AsciiSumator\bin\Debug\netcoreapp3.1\AsciiSumator.runtimeconfig.json
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\AsciiSumator\bin\Debug\netcoreapp3.1\AsciiSumator.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\AsciiSumator\bin\Debug\netcoreapp3.1\AsciiSumator.dll
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\AsciiSumator\bin\Debug\netcoreapp3.1\AsciiSumator.pdb
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\AsciiSumator\obj\Debug\netcoreapp3.1\AsciiSumator.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\AsciiSumator\obj\Debug\netcoreapp3.1\AsciiSumator.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\AsciiSumator\obj\Debug\netcoreapp3.1\AsciiSumator.AssemblyInfo.cs
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\AsciiSumator\obj\Debug\netcoreapp3.1\AsciiSumator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\AsciiSumator\obj\Debug\netcoreapp3.1\AsciiSumator.dll
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\AsciiSumator\obj\Debug\netcoreapp3.1\AsciiSumator.pdb
+C:\Users\USER\Desktop\Homeworks Softuni\3. SoftUniBarIncome\AsciiSumator\obj\Debug\netcoreapp3.1\AsciiSumator.genruntimeconfig.cache
