@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Simator\Simator\bin\Debug\Simator.exe.config
+C:\Users\USER\source\repos\Simator\Simator\bin\Debug\Simator.exe
+C:\Users\USER\source\repos\Simator\Simator\bin\Debug\Simator.pdb
+C:\Users\USER\source\repos\Simator\Simator\obj\Debug\Simator.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Simator\Simator\obj\Debug\Simator.Calculate.resources
+C:\Users\USER\source\repos\Simator\Simator\obj\Debug\Simator.Properties.Resources.resources
+C:\Users\USER\source\repos\Simator\Simator\obj\Debug\Simator.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Simator\Simator\obj\Debug\Simator.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Simator\Simator\obj\Debug\Simator.exe
+C:\Users\USER\source\repos\Simator\Simator\obj\Debug\Simator.pdb
