@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\ConsoleApp233\firma\bin\Debug\netcoreapp2.1\firma.deps.json
+C:\Users\USER\source\repos\ConsoleApp233\firma\bin\Debug\netcoreapp2.1\firma.runtimeconfig.json
+C:\Users\USER\source\repos\ConsoleApp233\firma\bin\Debug\netcoreapp2.1\firma.runtimeconfig.dev.json
+C:\Users\USER\source\repos\ConsoleApp233\firma\bin\Debug\netcoreapp2.1\firma.dll
+C:\Users\USER\source\repos\ConsoleApp233\firma\bin\Debug\netcoreapp2.1\firma.pdb
+C:\Users\USER\source\repos\ConsoleApp233\firma\obj\Debug\netcoreapp2.1\firma.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp233\firma\obj\Debug\netcoreapp2.1\firma.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp233\firma\obj\Debug\netcoreapp2.1\firma.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ConsoleApp233\firma\obj\Debug\netcoreapp2.1\firma.AssemblyInfo.cs
+C:\Users\USER\source\repos\ConsoleApp233\firma\obj\Debug\netcoreapp2.1\firma.dll
+C:\Users\USER\source\repos\ConsoleApp233\firma\obj\Debug\netcoreapp2.1\firma.pdb
