@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\SquareAreaDouble\bin\Debug\netcoreapp2.1\SquareAreaDouble.deps.json
+C:\Users\USER\source\repos\SquareAreaDouble\bin\Debug\netcoreapp2.1\SquareAreaDouble.runtimeconfig.json
+C:\Users\USER\source\repos\SquareAreaDouble\bin\Debug\netcoreapp2.1\SquareAreaDouble.runtimeconfig.dev.json
+C:\Users\USER\source\repos\SquareAreaDouble\bin\Debug\netcoreapp2.1\SquareAreaDouble.dll
+C:\Users\USER\source\repos\SquareAreaDouble\bin\Debug\netcoreapp2.1\SquareAreaDouble.pdb
+C:\Users\USER\source\repos\SquareAreaDouble\obj\Debug\netcoreapp2.1\SquareAreaDouble.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\SquareAreaDouble\obj\Debug\netcoreapp2.1\SquareAreaDouble.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SquareAreaDouble\obj\Debug\netcoreapp2.1\SquareAreaDouble.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SquareAreaDouble\obj\Debug\netcoreapp2.1\SquareAreaDouble.AssemblyInfo.cs
+C:\Users\USER\source\repos\SquareAreaDouble\obj\Debug\netcoreapp2.1\SquareAreaDouble.dll
+C:\Users\USER\source\repos\SquareAreaDouble\obj\Debug\netcoreapp2.1\SquareAreaDouble.pdb
