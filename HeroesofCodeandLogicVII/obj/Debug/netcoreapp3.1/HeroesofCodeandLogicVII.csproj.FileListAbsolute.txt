@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Exam\HeroesofCodeandLogicVII\obj\Debug\netcoreapp3.1\HeroesofCodeandLogicVII.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Exam\HeroesofCodeandLogicVII\obj\Debug\netcoreapp3.1\HeroesofCodeandLogicVII.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Exam\HeroesofCodeandLogicVII\obj\Debug\netcoreapp3.1\HeroesofCodeandLogicVII.AssemblyInfo.cs
+C:\Users\USER\source\repos\Exam\HeroesofCodeandLogicVII\obj\Debug\netcoreapp3.1\HeroesofCodeandLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Exam\HeroesofCodeandLogicVII\bin\Debug\netcoreapp3.1\HeroesofCodeandLogicVII.exe
+C:\Users\USER\source\repos\Exam\HeroesofCodeandLogicVII\bin\Debug\netcoreapp3.1\HeroesofCodeandLogicVII.deps.json
+C:\Users\USER\source\repos\Exam\HeroesofCodeandLogicVII\bin\Debug\netcoreapp3.1\HeroesofCodeandLogicVII.runtimeconfig.json
+C:\Users\USER\source\repos\Exam\HeroesofCodeandLogicVII\bin\Debug\netcoreapp3.1\HeroesofCodeandLogicVII.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Exam\HeroesofCodeandLogicVII\bin\Debug\netcoreapp3.1\HeroesofCodeandLogicVII.dll
+C:\Users\USER\source\repos\Exam\HeroesofCodeandLogicVII\bin\Debug\netcoreapp3.1\HeroesofCodeandLogicVII.pdb
+C:\Users\USER\source\repos\Exam\HeroesofCodeandLogicVII\obj\Debug\netcoreapp3.1\HeroesofCodeandLogicVII.dll
+C:\Users\USER\source\repos\Exam\HeroesofCodeandLogicVII\obj\Debug\netcoreapp3.1\HeroesofCodeandLogicVII.pdb
+C:\Users\USER\source\repos\Exam\HeroesofCodeandLogicVII\obj\Debug\netcoreapp3.1\HeroesofCodeandLogicVII.genruntimeconfig.cache
