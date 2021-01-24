@@ -1,44 +1,55 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.Generic;
-using System.Text.RegularExpressions;
 
-namespace _3._SoftUniBarIncome
+namespace _2._StackSum
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string pattern = @"%([A-Z][a-z]+)%[^|$%.]*<(\w+)>[^|$%.]*\|(\d+)\|[^|$%.]*?(\d+.?\d*)\$";
+            int[] arr = Console.ReadLine()
+                                       .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                                       .Select(int.Parse)
+                                       .ToArray();
 
-            Regex regex = new Regex(pattern);
+            Stack<int> stack = new Stack<int>(arr);
 
-            string command = Console.ReadLine();
-            double totalPrice = 0;
-            double income = 0;
+            string command = Console.ReadLine().ToLower();
 
-            while (command != "end of shift")
+            while (command != "end")
             {
-                Match matched = regex.Match(command);
-
-
-                if (matched.Success)
+                if (command.Contains("add"))
                 {
-                
-                    string name = matched.Groups[1].Value;
-                    string products = matched.Groups[2].Value;
-                    double quantity = double.Parse(matched.Groups[3].Value);
-                    double price = double.Parse(matched.Groups[4].Value);
-                    totalPrice = price * quantity;
+                    var com = command.Split();
+                    stack.Push(int.Parse(com[1]));
 
-                    Console.WriteLine($"{name}: {products} - {totalPrice:f2}");
-                    income += totalPrice;
+                    stack.Push(int.Parse(com[2]));
 
                 }
+                else if (command.Contains("remove"))
+                {
+                    var com = command.Split();
+                    var count = int.Parse(com[1]);
 
-                command = Console.ReadLine();
+                    if (stack.Count > count)
+                    {
+                       
+
+                        for (int i = 0; i < count; i++)
+                        {
+                            stack.Pop();
+                        }
+                    }
+                }
+
+
+                command = Console.ReadLine().ToLower();
             }
+            var sum = stack.Sum();
 
-            Console.WriteLine($"Total income: {income:f2}");
+            Console.WriteLine("Sum: " + sum);
+
         }
     }
 }
