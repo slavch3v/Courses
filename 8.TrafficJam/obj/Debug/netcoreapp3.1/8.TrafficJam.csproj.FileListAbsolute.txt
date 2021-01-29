@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\C#\StacksAndQueues\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.exe
+C:\Users\USER\Desktop\C#\StacksAndQueues\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.deps.json
+C:\Users\USER\Desktop\C#\StacksAndQueues\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.runtimeconfig.json
+C:\Users\USER\Desktop\C#\StacksAndQueues\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C#\StacksAndQueues\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.dll
+C:\Users\USER\Desktop\C#\StacksAndQueues\8.TrafficJam\bin\Debug\netcoreapp3.1\8.TrafficJam.pdb
+C:\Users\USER\Desktop\C#\StacksAndQueues\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C#\StacksAndQueues\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\StacksAndQueues\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\StacksAndQueues\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\StacksAndQueues\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.dll
+C:\Users\USER\Desktop\C#\StacksAndQueues\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.pdb
+C:\Users\USER\Desktop\C#\StacksAndQueues\8.TrafficJam\obj\Debug\netcoreapp3.1\8.TrafficJam.genruntimeconfig.cache
