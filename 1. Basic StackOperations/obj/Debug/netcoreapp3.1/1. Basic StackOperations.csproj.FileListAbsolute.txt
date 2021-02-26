@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\1. Basic StackOperations\bin\Debug\netcoreapp3.1\1. Basic StackOperations.exe
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\1. Basic StackOperations\bin\Debug\netcoreapp3.1\1. Basic StackOperations.deps.json
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\1. Basic StackOperations\bin\Debug\netcoreapp3.1\1. Basic StackOperations.runtimeconfig.json
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\1. Basic StackOperations\bin\Debug\netcoreapp3.1\1. Basic StackOperations.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\1. Basic StackOperations\bin\Debug\netcoreapp3.1\1. Basic StackOperations.dll
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\1. Basic StackOperations\bin\Debug\netcoreapp3.1\1. Basic StackOperations.pdb
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\1. Basic StackOperations\obj\Debug\netcoreapp3.1\1. Basic StackOperations.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\1. Basic StackOperations\obj\Debug\netcoreapp3.1\1. Basic StackOperations.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\1. Basic StackOperations\obj\Debug\netcoreapp3.1\1. Basic StackOperations.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\1. Basic StackOperations\obj\Debug\netcoreapp3.1\1. Basic StackOperations.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\1. Basic StackOperations\obj\Debug\netcoreapp3.1\1. Basic StackOperations.dll
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\1. Basic StackOperations\obj\Debug\netcoreapp3.1\1. Basic StackOperations.pdb
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\1. Basic StackOperations\obj\Debug\netcoreapp3.1\1. Basic StackOperations.genruntimeconfig.cache
