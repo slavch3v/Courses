@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\ReverseNumberswithaStack\bin\Debug\netcoreapp3.1\ReverseNumberswithaStack.exe
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\ReverseNumberswithaStack\bin\Debug\netcoreapp3.1\ReverseNumberswithaStack.deps.json
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\ReverseNumberswithaStack\bin\Debug\netcoreapp3.1\ReverseNumberswithaStack.runtimeconfig.json
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\ReverseNumberswithaStack\bin\Debug\netcoreapp3.1\ReverseNumberswithaStack.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\ReverseNumberswithaStack\bin\Debug\netcoreapp3.1\ReverseNumberswithaStack.dll
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\ReverseNumberswithaStack\bin\Debug\netcoreapp3.1\ReverseNumberswithaStack.pdb
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\ReverseNumberswithaStack\obj\Debug\netcoreapp3.1\ReverseNumberswithaStack.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\ReverseNumberswithaStack\obj\Debug\netcoreapp3.1\ReverseNumberswithaStack.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\ReverseNumberswithaStack\obj\Debug\netcoreapp3.1\ReverseNumberswithaStack.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\ReverseNumberswithaStack\obj\Debug\netcoreapp3.1\ReverseNumberswithaStack.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\ReverseNumberswithaStack\obj\Debug\netcoreapp3.1\ReverseNumberswithaStack.dll
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\ReverseNumberswithaStack\obj\Debug\netcoreapp3.1\ReverseNumberswithaStack.pdb
+C:\Users\USER\Desktop\C#\ExercisesStacksandQueues\ReverseNumberswithaStack\obj\Debug\netcoreapp3.1\ReverseNumberswithaStack.genruntimeconfig.cache
