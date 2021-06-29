@@ -1,0 +1,13 @@
+C:\Users\biser\source\repos\Masterchef\ExamAdvanced\bin\Debug\netcoreapp3.1\ExamAdvanced.exe
+C:\Users\biser\source\repos\Masterchef\ExamAdvanced\bin\Debug\netcoreapp3.1\ExamAdvanced.deps.json
+C:\Users\biser\source\repos\Masterchef\ExamAdvanced\bin\Debug\netcoreapp3.1\ExamAdvanced.runtimeconfig.json
+C:\Users\biser\source\repos\Masterchef\ExamAdvanced\bin\Debug\netcoreapp3.1\ExamAdvanced.runtimeconfig.dev.json
+C:\Users\biser\source\repos\Masterchef\ExamAdvanced\bin\Debug\netcoreapp3.1\ExamAdvanced.dll
+C:\Users\biser\source\repos\Masterchef\ExamAdvanced\bin\Debug\netcoreapp3.1\ExamAdvanced.pdb
+C:\Users\biser\source\repos\Masterchef\ExamAdvanced\obj\Debug\netcoreapp3.1\ExamAdvanced.csprojAssemblyReference.cache
+C:\Users\biser\source\repos\Masterchef\ExamAdvanced\obj\Debug\netcoreapp3.1\ExamAdvanced.AssemblyInfoInputs.cache
+C:\Users\biser\source\repos\Masterchef\ExamAdvanced\obj\Debug\netcoreapp3.1\ExamAdvanced.AssemblyInfo.cs
+C:\Users\biser\source\repos\Masterchef\ExamAdvanced\obj\Debug\netcoreapp3.1\ExamAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\biser\source\repos\Masterchef\ExamAdvanced\obj\Debug\netcoreapp3.1\ExamAdvanced.dll
+C:\Users\biser\source\repos\Masterchef\ExamAdvanced\obj\Debug\netcoreapp3.1\ExamAdvanced.pdb
+C:\Users\biser\source\repos\Masterchef\ExamAdvanced\obj\Debug\netcoreapp3.1\ExamAdvanced.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\biser\source\repos\Masterchef\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.exe
+C:\Users\biser\source\repos\Masterchef\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.deps.json
+C:\Users\biser\source\repos\Masterchef\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.json
+C:\Users\biser\source\repos\Masterchef\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.dev.json
+C:\Users\biser\source\repos\Masterchef\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.dll
+C:\Users\biser\source\repos\Masterchef\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.pdb
+C:\Users\biser\source\repos\Masterchef\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csprojAssemblyReference.cache
+C:\Users\biser\source\repos\Masterchef\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfoInputs.cache
+C:\Users\biser\source\repos\Masterchef\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfo.cs
+C:\Users\biser\source\repos\Masterchef\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.CoreCompileInputs.cache
+C:\Users\biser\source\repos\Masterchef\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.dll
+C:\Users\biser\source\repos\Masterchef\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.pdb
+C:\Users\biser\source\repos\Masterchef\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.genruntimeconfig.cache
